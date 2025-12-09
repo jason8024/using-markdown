@@ -7,3 +7,10 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## 3
+制定任务清单
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] learn MarkDown
+- [ ] ALL
